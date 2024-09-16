@@ -1,2 +1,113 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<html>
+	<head>
+		<title>Technologies Mésozoïques</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css"/></noscript>
+	</head>
+	<body class="is-preload landing">
+		<div id="page-wrapper">
+
+		<!-- Bannière -->
+		<section id="banner">
+			<div class="content">
+				<header>
+					<h2>Technologies Mésozoïques</h2>
+					<p>Spécialisé dans la génération et la gestion de jeux de données synthétiques pour l'industrie de l'IA. Nos jeux de données uniques sont la clé pour améliorer l'efficacité, la précision et la conformité de tout modèle.</p>
+				</header>
+				<p><i>"Si vous aviez autant de données que nous, il n'aurait aucune importance de savoir quels modèles utiliser." — ingénieur anonyme de Google</i></p>
+			</div>
+			<a href="#zero" class="goto-next scrolly">Suivant</a>
+		</section>
+
+		<!-- Zéro - Introduction -->
+		<section id="zero" class="specialSpotlightTop">
+			<div class="content">
+				<div class="container">
+					<div class="row">
+						<div class="col-12 col-12-medium">
+							<p>Chez <b>Technologies Mésozoïques</b>, nous ne suivons pas simplement les tendances ; nous les créons. Notre focus sur les jeux de données synthétiques est ce qui nous distingue dans le paysage animé de l'IA. Nous résolvons les problèmes fondamentaux du développement de l'IA : confidentialité des données, liberté de licence et évolutivité sans limites. Le tout à une fraction du coût des données naturelles.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Un - Pourquoi Synthétique ? -->
+		<section id="one" class="spotlight style1 left">
+			<span class="image fit main"><img src="images/pic01.png" alt=""/></span>
+			<div class="content">
+				<header>
+					<h2>Pourquoi Synthétique ?</h2>
+				</header>
+				<ul>
+					<li>🇪🇺 Pas de risques de DPI. Adieu, RGPD.</li>
+					<li>🧑‍⚖️ Pas de problèmes de licence. Les propriétaires de données ne vous poursuivront pas en justice lorsque votre modèle vous rendra riche.</li>
+					<li>⛰️ Le ciel est la limite. Choisissez la taille de votre jeu de données en fonction de vos besoins.</li>
+					<li>🥐 Toujours frais. Prenez en compte les changements longitudinaux.</li>
+				</ul>
+			</div>
+			<a href="#two" class="goto-next scrolly">Suivant</a>
+		</section>
+
+		<!-- Deux - Cas d'Utilisation -->
+		<section id="two" class="spotlight style2 right">
+			<span class="image fit main"><img src="images/pic02.png" alt="" /></span>
+			<div class="content">
+				<header>
+					<h2>Cas d'Utilisation</h2>
+				</header>
+				<ul>
+					<li><b>Entraînement de modèles personnalisés</b> – Avec des données synthétiques, vous avez la liberté de créer des jeux de données diversifiés et spécialisés pour des industries spécifiques, des scénarios rares et des applications de pointe.</li>
+					<li><b>Affiner les modèles existants</b> – Les données synthétiques vous permettent de simuler et de peaufiner les performances de votre modèle dans divers scénarios, que ce soit pour améliorer la précision, résoudre les biais ou s'adapter aux conditions changeantes.</li>
+				</ul>
+			</div>
+			<a href="#three" class="goto-next scrolly">Suivant</a>
+		</section>
+
+		<!-- Trois - Modèle d'Affaires -->
+		<section id="three" class="spotlight style3 left">
+			<span class="image fit main bottom"><img src="images/pic03.png" alt="" /></span>
+			<div class="content">
+				<header>
+					<h2>Notre Modèle d'Affaires</h2>
+				</header>
+				<p>Licencier des jeux de données synthétiques aux entreprises d'IA, permettant ainsi l'innovation avec des données sur mesure, sûres et conformes.</p><br>
+				<b>Besoin de données ? Parlons-en ! &#x1F917;</b>
+			</div>
+			<a href="#four" class="goto-next scrolly">Suivant</a>
+		</section>
+
+		<!-- Quatre - Appel à l'Action -->
+		<section id="four" class="wrapper style1 special fade">
+			<div class="container">
+				<header>
+					<h2>Partenaires avec Nous</h2>
+					<p>Découvrez comment nos jeux de données synthétiques peuvent révolutionner vos projets IA. Contactez-nous dès aujourd'hui !</p>
+				</header>
+				<center><form method="POST" action="https://formspree.io/f/xoqgqajl" class="container 50%">
+					<div class="row uniform 50%">
+						<div class="6u 12u$(xsmall)"><input type="text" name="name" id="name" placeholder="Nom" /></div>
+						<div class="6u 12u$(xsmall)"><input type="email" name="email" id="email" placeholder="Adresse Email" /></div>
+						<div class="12u"><input type="text" name="message" id="message" placeholder="Votre Message" /></div>
+						<div class="12u$"><input type="submit" value="Envoyer le Message" class="fit special" /></div>
+					</div>
+				</form></center>
+			</div>
+		</section>
+
+		<!-- Scripts -->
+		<script src="assets/js/jquery.min.js"></script>
+		<script src="assets/js/jquery.scrolly.min.js"></script>
+		<script src="assets/js/jquery.dropotron.min.js"></script>
+		<script src="assets/js/jquery.scrollex.min.js"></script>
+		<script src="assets/js/browser.min.js"></script>
+		<script src="assets/js/breakpoints.min.js"></script>
+		<script src="assets/js/util.js"></script>
+		<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
